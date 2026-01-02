@@ -1,0 +1,19 @@
+asqlite==2.0.0
+audioop-lts; python_version>='3.13'
+beautifulsoup4==4.12.3
+coloredlogs==15.0.1
+ffmpeg==1.4
+ffmpeg-python==0.2.0
+lxml==5.3.0
+mcstatus==12.0.1
+neotermcolor==2.0.10
+psutil==5.9.5
+py-cord==2.6.1
+pyfiglet==1.0.2
+pymongo
+PyNaCl==1.5.0
+python-dotenv==1.0.1
+PyYAML==6.0.1
+requests==2.32.3
+yt-dlp==2025.6.30
+pycountry
